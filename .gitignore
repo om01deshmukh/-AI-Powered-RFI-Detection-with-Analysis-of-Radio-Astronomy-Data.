@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+gmrt_dataset/
+kaggle_dataset/
