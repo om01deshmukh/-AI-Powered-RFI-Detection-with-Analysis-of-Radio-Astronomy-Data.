@@ -279,7 +279,7 @@ Developed for:
 
 For questions, issues, or collaborations:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
+- Email: om01deshmukh@gamil.com
 - Project: GMRT RFI Detection Tool
 
 ---
