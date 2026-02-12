@@ -24,13 +24,12 @@ streamlit>=1.20.0
 Pillow>=9.0.0
 
 # Deep Learning (Optional - for advanced models)
-# Uncomment if you want to use neural networks:
 # torch>=2.0.0
 # torchvision>=0.15.0
 
 # Utilities
 tqdm>=4.60.0  # Progress bars
 
-# Jupyter Notebook (Optional - for experimentation)
+# Jupyter Notebook 
 # jupyter>=1.0.0
 # ipython>=8.0.0
