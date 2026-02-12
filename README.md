@@ -3,7 +3,7 @@
 An explainable AI tool for visualizing and cleaning Radio Frequency Interference (RFI) in radio telescope data, designed for GMRT and educational purposes.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg).
 
 ---
 
