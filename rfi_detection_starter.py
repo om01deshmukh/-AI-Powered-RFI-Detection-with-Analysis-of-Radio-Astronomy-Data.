@@ -1,11 +1,6 @@
-#!/usr/bin/env python3
 """
 RFI Detection Tool - Starter Script
 AI-Powered Visual & Explainable RFI Detection for Radio Astronomy
-
-Author: [Your Name]
-Project: GMRT RFI Detection Tool
-Date: February 2026
 """
 
 import numpy as np
