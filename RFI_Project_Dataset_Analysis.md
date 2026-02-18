@@ -40,7 +40,6 @@
 - Size: 1901.29 MB (~1.9 GB)
 - Status: Downloaded, FITS conversion successful
 
-
 ---
 
 ## 🎯 How These Datasets Fit Your Project
@@ -64,7 +63,7 @@
 
 ## 🛠️ Implementation Roadmap
 
-### Step 1: Setup & Exploration (Week 1-2)
+### Step 1: Setup & Exploration 
 
 **A. Kaggle Dataset Exploration**
 ```python
@@ -143,7 +142,7 @@ def create_dynamic_spectrum(data):
 
 ---
 
-### Step 2: RFI Detection Model (Week 3-4)
+### Step 2: RFI Detection Model 
 
 ```python
 import numpy as np
@@ -213,7 +212,7 @@ class RFIDetector:
 
 ---
 
-### Step 3: Explainable AI Module (Week 5)
+### Step 3: Explainable AI Module 
 
 ```python
 import matplotlib.pyplot as plt
@@ -344,7 +343,7 @@ class RFIExplainer:
 
 ---
 
-### Step 4: Interactive Dashboard (Week 6)
+### Step 4: Interactive Dashboard
 
 ```python
 import streamlit as st
@@ -548,19 +547,19 @@ To run: `streamlit run app.py`
 
 ## 📋 Next Steps Checklist
 
-### Immediate Actions (This Week)
+### Immediate Actions 
 - [ ] Download Kaggle RF dataset
 - [ ] Set up Python environment with required libraries
 - [ ] Create basic visualization script
 - [ ] Test FITS file loading with GMRT data
 
-### Short Term (2-3 Weeks)
+### Short Term 
 - [ ] Implement RFI detection model
 - [ ] Build explainability module
 - [ ] Create interactive dashboard
 - [ ] Test with both datasets
 
-### Medium Term (1-2 Months)
+### Medium Term 
 - [ ] Optimize detection algorithms
 - [ ] Add pulsar detection module
 - [ ] Create documentation and tutorials
