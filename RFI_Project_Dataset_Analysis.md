@@ -40,7 +40,6 @@
 - Size: 1901.29 MB (~1.9 GB)
 - Status: Downloaded, FITS conversion successful
 
-**Important:** This is **metadata** about GMRT observations, not the actual radio telescope data. You'll need to access the actual FITS files (3GB+) for signal processing.
 
 ---
 
